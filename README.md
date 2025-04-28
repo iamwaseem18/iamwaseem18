@@ -7,7 +7,7 @@
 <h2 align="center">Hey , I'm <a href="https://bio.link/iamwaseemkhan" target="_blank" rel="noreferrer">Mohammed Waseem Khan!</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergrad.;A+Passionate+Full+Stack+developer+from+India;Always%20learning%20new%20things.;&center=true&width=600&height=50"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Grad+Student.;A+Passionate+Full+Stack+developer+from+India;Always%20learning%20new%20things.;&center=true&width=600&height=50"></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
